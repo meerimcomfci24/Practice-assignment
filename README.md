@@ -1,4 +1,4 @@
-Design and Analysis of Algorithms Azhimamatova Meerim COMFCI-24
+Design and Analysis of Algorithms.                 Azhimamatova Meerim COMFCI-24
 
 
 ---
