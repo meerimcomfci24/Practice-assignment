@@ -1,8 +1,7 @@
-Design and Analysis of Algorithms 
-Student:Azhimamatova Meerim COMFCI-24
+Design and Analysis of Algorithms
+Student: Azhimamatova Meerim COMFCI-24
 Language: Java
 
----
 
 1. RECURSIVE FIBONACCI
 
@@ -32,9 +31,8 @@ Call Tree Structure for fib(4):
   fib(1)    fib(0)
 
 Explanation:
-In recursive Fibonacci, the function calls itself to calculate fib(n-1) and fib(n-2). The left branch is evaluated first down to the base cases (n = 0 or n = 1). The time complexity is O(2^n) because of overlapping subproblems (e.g., fib(2) is recomputed multiple times). The space complexity is O(n) due to the system call stack.
+In recursive Fibonacci, the function calls itself to calculate fib(n-1) and fib(n-2). The left branch is evaluated first down to the base cases (n = 0 or n = 1). The time complexity is O(2^n) because of overlapping subproblems. The space complexity is O(n) due to the system call stack.
 
----
 
 2. ITERATIVE BINARY SEARCH
 
@@ -74,9 +72,8 @@ Example 3: Target = 12 in arr = [3, 9, 15, 21]
 - Step 3: low (2) > high (1), loop terminates. Target not found, returns -1.
 
 Explanation:
-Iterative binary search uses two pointers (low and high) defining the search window. Each iteration halves the search space by adjusting low or high. Time complexity is O(log n). Space complexity is O(1) as it uses a constant amount of extra memory.
+Iterative binary search uses two pointers (low and high). Each iteration halves the search space by adjusting low or high. Time complexity is O(log n). Space complexity is O(1) as it uses a constant amount of extra memory.
 
----
 
 3. RECURSIVE BINARY SEARCH
 
