@@ -1,5 +1,8 @@
 Design and Analysis of Algorithms
-Student: Azhimamatova Meerim COMFCI-24
+=================================
+Course: Design and Analysis of Algorithms
+Student: Azhimamatova Meerim
+Group: COMFCI-24
 Language: Java
 
 
